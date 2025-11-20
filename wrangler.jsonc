@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "worker",
+  "name": "auto-config-pr-merged",
   "compatibility_date": "2025-11-18",
   "observability": {
     "enabled": true
